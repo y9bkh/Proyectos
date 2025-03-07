@@ -4,7 +4,7 @@
 
 ## Biblioteca
 - **[Java 🏴](https://github.com/y9bkh/Proyectos/blob/main/README.md#java-)**
-- **[Carpetas (Java 🏴)](https://github.com/hiih4aa/hiih4aa?tab=readme-ov-file#carpetas-java-)**
+- **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos/blob/main/README.md#carpetas-java-)**
 - **[Licencia 📖](https://github.com/hiih4aa/hiih4aa?tab=readme-ov-file#licencia-)**
 
 ## Java 🏴
