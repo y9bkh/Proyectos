@@ -5,7 +5,7 @@
 ## Biblioteca
 - **[Java 🏴](https://github.com/y9bkh/Proyectos/blob/main/README.md#java-)**
 - **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos/blob/main/README.md#carpetas-java-)**
-- **[Licencia 📖](https://github.com/hiih4aa/hiih4aa?tab=readme-ov-file#licencia-)**
+- **[Licencia 📖](https://github.com/y9bkh/Proyectos/blob/main/README.md#licencia-)**
 
 ## Java 🏴
 **1) Binario a decimal 🧮:**
